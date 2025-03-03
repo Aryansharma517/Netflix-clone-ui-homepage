@@ -42,5 +42,5 @@ Netflix-Clone-UI/
 This project is for educational purposes only and is not affiliated with Netflix.
 
 ## Author
-Your Name - https://github.com/Aryansharma517
+Github - https://github.com/Aryansharma517
 
